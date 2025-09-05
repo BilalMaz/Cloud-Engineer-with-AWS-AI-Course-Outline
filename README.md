@@ -1,21 +1,22 @@
-# Cloud-Engineer-with-AWS-AI-Course-Outline
-
-# 🌩️ Cloud Engineer with AWS & AI – Course Outline
+# 🌩️ Cloud Engineer with AWS, AI & DevOps – Course Outline
 
 ## 📘 Introduction
 
 In today’s rapidly evolving tech landscape, cloud computing has become the backbone of modern infrastructure. Amazon Web Services (AWS), as the leading cloud platform, empowers engineers to build scalable, secure, and resilient systems. This course is designed to equip aspiring cloud engineers with hands-on expertise in AWS services, infrastructure design, automation, and security.
 
-To stay ahead of the curve, this course also integrates **Artificial Intelligence (AI)** and **Generative AI tools**—including **Amazon Q** and **prompt engineering**—to prepare learners for the future of cloud-native development. Whether you're aiming for AWS certification, building enterprise-grade solutions, or exploring AI-powered applications, this course provides the skills and confidence to thrive.
+To stay ahead of the curve, this course also integrates **Artificial Intelligence (AI)** and **Generative AI tools**—including **Amazon Q** and **prompt engineering**—to prepare learners for the future of cloud-native development. And with the addition of **AWS DevOps**, learners will gain the skills to automate deployments, monitor performance, and build production-grade CI/CD pipelines.
+
+Whether you're aiming for AWS certification, building enterprise-grade solutions, or exploring AI-powered applications, this course provides the skills and confidence to thrive.
 
 ### 🎯 Learning Outcomes
 
 - ✅ Understand core AWS services and architecture  
-- ⚙️ Automate infrastructure using CloudFormation and CLI  
+- ⚙️ Automate infrastructure using CloudFormation, CLI, and CDK  
 - 🔐 Build secure, scalable networks and applications  
 - 🤖 Integrate AI services like SageMaker, Bedrock, and Lex  
 - 💡 Use Amazon Q to accelerate development and documentation  
 - ✍️ Master prompt engineering for effective GenAI interaction  
+- 🔄 Build CI/CD pipelines and apply DevOps best practices  
 - 🧠 Prepare for AWS certifications and real-world job roles  
 
 ---
@@ -24,7 +25,7 @@ To stay ahead of the curve, this course also integrates **Artificial Intelligenc
 
 **Days:** Friday, Saturday, Sunday  
 **Session Length:** 3 hours each  
-**Total Duration:** ~11 weekends (33 sessions)
+**Total Duration:** 13 weekends (39 sessions)
 
 | 🧱 Module | 📌 Topic | 📝 Description | 🧪 Hands-On Project | ⏱️ Duration |
 |----------|----------|----------------|---------------------|--------------|
@@ -50,5 +51,23 @@ To stay ahead of the curve, this course also integrates **Artificial Intelligenc
 |  | ⚖️ Responsible AI | Ethics, bias, privacy, governance | Document prompt behavior | 1 session |
 | **11. Developer Productivity** | 💡 Amazon Q Developer | IDE integration, code generation, documentation | Scaffold Lambda, IAM, CloudFormation with Q | 1 session |
 |  | ✍️ Prompt Engineering | Structure, refinement, templates | Prompt sandbox & comparison | 1 session |
+| **12. AWS DevOps Engineering** | 🚀 DevOps Fundamentals | DevOps culture, CI/CD principles, automation | DevOps Workflow Simulation | 1 session |
+|  | 🔄 CI/CD with AWS | CodePipeline, CodeBuild, CodeDeploy, CodeCommit | CI/CD Pipeline Project | 2 sessions |
+|  | 🧪 Advanced IaC | AWS SAM, CDK, CloudFormation best practices | Serverless App Deployment with SAM | 1 session |
+|  | 📈 Monitoring & Logging | CloudWatch Logs, X-Ray, CodeGuru | Full-stack Monitoring Lab | 1 session |
+|  | 🔐 DevSecOps & Governance | Security automation, policy enforcement | DevSecOps Pipeline with security scans | 1 session |
 
 ---
+
+## 📦 How to Use This Repository
+
+This outline is designed for instructors, students, and cloud enthusiasts. You can:
+- Clone this repo and customize the schedule
+- Add labs, quizzes, and certification prep materials
+- Use it as a base for bootcamps or online courses
+
+---
+
+## 📜 License
+
+This course outline is open for educational use. Attribution appreciated if reused or modified.
