@@ -27,6 +27,13 @@ Whether you're aiming for AWS certification, building enterprise-grade solutions
 **Session Length:** 3 hours each  
 **Total Duration:** 13 weekends (39 sessions)
 
+
+## 🧠 Weekend-Based Course Schedule (3 Hours per Day)
+
+**Days:** Friday, Saturday, Sunday  
+**Session Length:** 3 hours each  
+**Total Duration:** 13 weekends (39 sessions)
+
 | 🧱 Module | 📌 Topic | 📝 Description | 🧪 Hands-On Project | ⏱️ Duration |
 |----------|----------|----------------|---------------------|--------------|
 | **1. Cloud Foundations** | 🌐 AWS & Certification Intro | Overview of AWS and CSA certification roadmap | AWS Account Setup & IAM Lab | 1 session |
@@ -51,5 +58,23 @@ Whether you're aiming for AWS certification, building enterprise-grade solutions
 |  | ⚖️ Responsible AI | Ethics, bias, privacy, governance | Document prompt behavior | 1 session |
 | **11. Developer Productivity** | 💡 Amazon Q Developer | IDE integration, code generation, documentation | Scaffold Lambda, IAM, CloudFormation with Q | 1 session |
 |  | ✍️ Prompt Engineering | Structure, refinement, templates | Prompt sandbox & comparison | 1 session |
+| **12. AWS DevOps Engineering** | 🚀 DevOps Fundamentals | DevOps culture, CI/CD principles, automation | DevOps Workflow Simulation | 1 session |
+|  | 🔄 CI/CD with AWS | CodePipeline, CodeBuild, CodeDeploy, CodeCommit | CI/CD Pipeline Project | 2 sessions |
+|  | 🧪 Advanced IaC | AWS SAM, CDK, CloudFormation best practices | Serverless App Deployment with SAM | 1 session |
+|  | 📈 Monitoring & Logging | CloudWatch Logs, X-Ray, CodeGuru | Full-stack Monitoring Lab | 1 session |
+|  | 🔐 DevSecOps & Governance | Security automation, policy enforcement | DevSecOps Pipeline with security scans | 1 session |
 
 ---
+
+## 📦 How to Use This Repository
+
+This outline is designed for instructors, students, and cloud enthusiasts. You can:
+- Clone this repo and customize the schedule
+- Add labs, quizzes, and certification prep materials
+- Use it as a base for bootcamps or online courses
+
+---
+
+## 📜 License
+
+This course outline is open for educational use. Attribution appreciated if reused or modified.
