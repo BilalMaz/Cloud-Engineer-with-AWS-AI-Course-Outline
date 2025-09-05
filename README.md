@@ -62,4 +62,6 @@ Whether you're aiming for AWS certification, building enterprise-grade solutions
 
 This outline is designed for instructors, students, and cloud enthusiasts.
 
+Bilal Mazhar 
+
 ---
