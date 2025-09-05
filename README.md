@@ -52,17 +52,3 @@ To stay ahead of the curve, this course also integrates **Artificial Intelligenc
 |  | ✍️ Prompt Engineering | Structure, refinement, templates | Prompt sandbox & comparison | 1 session |
 
 ---
-
-## 📦 How to Use This Repository
-
-This outline is designed for instructors, students, and cloud enthusiasts. You can:
-- Clone this repo and customize the schedule
-- Add labs, quizzes, and certification prep materials
-- Use it as a base for bootcamps or online courses
-
----
-
-## 📜 License
-
-This course outline is open for educational use. Attribution appreciated if reused or modified.
-
