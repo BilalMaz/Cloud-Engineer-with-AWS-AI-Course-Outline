@@ -1,4 +1,4 @@
-# 🌩️ Cloud Engineer with AWS, AI & DevOps – Course Outline
+# 🌩️ Cloud Engineer - AWS - Course Outline
 
 ## 📘 Introduction
 
