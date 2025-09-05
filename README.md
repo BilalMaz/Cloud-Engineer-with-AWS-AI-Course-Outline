@@ -20,19 +20,11 @@ Whether you're aiming for AWS certification, building enterprise-grade solutions
 - 🧠 Prepare for AWS certifications and real-world job roles  
 
 ---
-
 ## 🧠 Weekend-Based Course Schedule (3 Hours per Day)
 
 **Days:** Friday, Saturday, Sunday  
 **Session Length:** 3 hours each  
-**Total Duration:** 13 weekends (39 sessions)
-
-
-## 🧠 Weekend-Based Course Schedule (3 Hours per Day)
-
-**Days:** Friday, Saturday, Sunday  
-**Session Length:** 3 hours each  
-**Total Duration:** 13 weekends (39 sessions)
+**Total Duration:** 39 sessions
 
 | 🧱 Module | 📌 Topic | 📝 Description | 🧪 Hands-On Project | ⏱️ Duration |
 |----------|----------|----------------|---------------------|--------------|
