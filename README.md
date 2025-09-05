@@ -68,13 +68,6 @@ Whether you're aiming for AWS certification, building enterprise-grade solutions
 
 ## 📦 How to Use This Repository
 
-This outline is designed for instructors, students, and cloud enthusiasts. You can:
-- Clone this repo and customize the schedule
-- Add labs, quizzes, and certification prep materials
-- Use it as a base for bootcamps or online courses
+This outline is designed for instructors, students, and cloud enthusiasts.
 
 ---
-
-## 📜 License
-
-This course outline is open for educational use. Attribution appreciated if reused or modified.
