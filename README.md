@@ -52,3 +52,8 @@ To stay ahead of the curve, this course also integrates **Artificial Intelligenc
 |  | ✍️ Prompt Engineering | Structure, refinement, templates | Prompt sandbox & comparison | 1 session |
 
 ---
+
+
+
+
+
